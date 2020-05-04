@@ -38,9 +38,9 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "asdasd",
+      "text": "asdasd\n\nasdasdasdasd",
       "user": "anonymous",
-      "dateUpdated": "2020-04-27 08:44:20.990",
+      "dateUpdated": "2020-05-04 08:12:49.924",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
@@ -68,9 +68,7 @@
   "id": "2F6U2VKGK",
   "noteParams": {},
   "noteForms": {},
-  "angularObjects": {
-    "angular:shared_process": []
-  },
+  "angularObjects": {},
   "config": {
     "isZeppelinNotebookCronEnable": false
   },
